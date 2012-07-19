@@ -1,0 +1,27 @@
+ul, li {
+	font-size: 14px;
+	line-height: 14px;
+	list-style-type: none;
+	margin: 2px 0;
+}
+
+label {
+	cursor: pointer;
+}
+
+.useCustomCheckbox {
+	background-image: url("../../imgs/myCustomCheckbox/check.gif");
+	background-repeat: no-repeat;
+	display: block;
+	height: 14px;
+	line-height: 14px;
+	padding-left: 18px;
+}
+
+.selectedTrue {
+	background-position: 0 -14px;
+}
+
+.selectedFalse {
+	background-position: 0 0px;
+}

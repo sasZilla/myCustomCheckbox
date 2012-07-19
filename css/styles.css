@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#main {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.сontainer {
+	float: left;
+	height: auto;
+	margin: 10px 0;
+}
+
+.reverseLeft {
+	float: right;
+}
+
+.half {
+	width: 50%;
+}
+
+.quarter {
+	width: 25%;
+}
+
+.twoColumn li {
+	width: 50%;
+	float: left;
+}
